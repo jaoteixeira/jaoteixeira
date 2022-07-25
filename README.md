@@ -19,7 +19,11 @@
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaoteixeira&layout=compact)](https://github.com/jaoteixeira/github-readme-stats)
 
+## 🚀 - Frameworks que eu utilizo
+<div style="display: inline_block"><br/>
+    <img align="center" alt= "DJANGO" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+    <img align="center" alt= "FLASK" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</div><br/>
 ## 📖 - Leituras
 - [Introdução à programação com Python - 3ª Edição | Nilo Ney Coutinho Menezes](https://www.novatec.com.br/livros/introducao-python-3ed/)
 
-![Snake animation](https://github.com/jaoteixeira/jaoteixeira/blob/output/github-contribution-grid-snake.svg)
