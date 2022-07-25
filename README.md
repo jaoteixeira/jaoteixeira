@@ -24,6 +24,8 @@
     <img align="center" alt= "DJANGO" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     <img align="center" alt= "FLASK" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </div><br/>
+
+
 ## 📖 - Leituras
 - [Introdução à programação com Python - 3ª Edição | Nilo Ney Coutinho Menezes](https://www.novatec.com.br/livros/introducao-python-3ed/)
 
