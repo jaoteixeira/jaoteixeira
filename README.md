@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Teixeira 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j0a0teixeira/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-teixeira-da-silva-8303011a4/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-teixeira-a94b6a247/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://mobile.twitter.com/teixeiradixx)
 
 ![Joao Teixeira GitHub stats](https://github-readme-stats.vercel.app/api?username=jaoteixeira&show_icons=true&theme=radical)
