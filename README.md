@@ -25,7 +25,7 @@
 
   <br/>
   <a href="https://github.com/jaoteixeira/jaoteixeira"><img alt="João Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=jaoteixeira&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/tauz-hub/tauz-hub.git"><img alt="Tauz Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoteixeira&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/jaoteixeira/jaoteixeira"><img alt="João Teixeira" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoteixeira&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Apenas uma métrica dos idiomas em que meu código público consiste e não reflete experiência ou nível de habilidade.
 
