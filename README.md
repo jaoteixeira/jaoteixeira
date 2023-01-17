@@ -1,8 +1,9 @@
 # <b>[João Teixeira 🡽](https://www.facebook.com/VitorTeixeira157/)</b>
 
+<br>
 <b>Front-end</b><br>
 <b>UI Designer</b>
-<br><br><br>
+<br>
 
 ## <b>Sobre mim</b>
 
